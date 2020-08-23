@@ -1,60 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Meghna</title>
-    <link>https://examplesite.com/blog/</link>
-    <description>Recent content in Blogs on Meghna</description>
+    <title>Blogs on Data Community</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Data Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved</copyright>
     <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://examplesite.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Who Clicks On Advertisements During an Online Reading Assessment?</title>
-      <link>https://examplesite.com/blog/2015-07-23-r-rmarkdown/</link>
+      <link>/blog/2015-07-23-r-rmarkdown/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/blog/2015-07-23-r-rmarkdown/</guid>
+      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
       <description>Hello R Markdown /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.</description>
     </item>
     
     <item>
+      <title>Who Clicks On Advertisements During an Online Reading Assessment?</title>
+      <link>/blog/epirls/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/epirls/</guid>
+      <description>&amp;#128218;ePIRLS Data Story    Who Clicks On Advertisements During an Online Reading Assessment?</description>
+    </item>
+    
+    <item>
       <title>Instagram @WeThePeopleDC</title>
-      <link>https://examplesite.com/blog/instagram-analysis/</link>
+      <link>/blog/instagram-analysis/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/blog/instagram-analysis/</guid>
+      <guid>/blog/instagram-analysis/</guid>
       <description>If you have some footprints in Washington D.C. and are active on Instagram, chances are that you may have heard of, or are currently following, the Instagram account @WeThePeopleDC.</description>
-    </item>
-    
-    <item>
-      <title>Are You Doing the Right Way</title>
-      <link>https://examplesite.com/blog/simple-blog-post-8/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>https://examplesite.com/blog/simple-blog-post-8/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>https://examplesite.com/blog/installation/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>https://examplesite.com/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://examplesite.com/blog/simple-blog-post-1/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://examplesite.com/blog/simple-blog-post-1/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
   </channel>
