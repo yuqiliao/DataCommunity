@@ -3,8 +3,8 @@ author: "Yuqi Liao"
 date: 2018-10-31
 linktitle: Instagram @WeThePeopleDC
 title: Instagram @WeThePeopleDC
-highlight: true
-image: img/blog/points_edit.png
+highlight: false
+image: images/blog/points_edit.png
 showonlyimage: false
 ---
 If you have some footprints in Washington D.C. and are active on Instagram, chances are that you may have heard of, or are currently following, the Instagram account [@WeThePeopleDC](https://www.instagram.com/wethepeopledc/). As its name hints, the account runs on an interesting model: each day, the handle is held by a different person living or working in the nation’s capital. The idea is that the account followers get to see the district through the eyes of Washingtonians of all backgrounds.
@@ -142,13 +142,13 @@ A bit over 80% (7,789 out of 9,728) of all posts have geo location information. 
 Using both `ggolot2` and `ggmap`, I create the following map with red dots to visualize the location of @WeThePeople posts. Only a handful of posts are tagged outside of DC or outside of this map. Alpha (transparency) is set to be 0.5 so it is easier to see the intensity of some dots. The quick takeaway is that most dots are around the center of the city. Also, among the dots that scatter around each corner, the Southeast region seems to have especially fewer and lighter dots compared to other parts of DC. One caveat of interpreting this dot map, though, is that general locations like “Washington, District of Columbia” and more specific location such as “Lincoln Memorial” are all represented by dots. Ideally, I would only want to visualize the location at the building/property level. However, I haven’t found a way yet to distinguish the specificity of Instagram’s location ID without manual labor. If anyone has insights on this, please reach out!
 
 &nbsp;
-{{< figure src="/img/blog/points_edit.png" width=100% height="500" >}}
+{{< figure src="/images/blog/points_edit.png" width=100% height="500" >}}
 &nbsp;
 
 I also created an area map to make the visualization and the takeaway cleaner. The package `tigris` was used to map DC by Census tracks. The caveat mentioned earlier was resolved in this area map after I removed posts tagged by the most general location, “Washington, District of Columbia”. The map reinforces the findings of the uneven distribution of the locations of @WeThePeople posts.
 
 &nbsp;
-{{< figure src="/img/blog/censustrack_edit.png" width=100% height="500" >}}
+{{< figure src="/images/blog/censustrack_edit.png" width=100% height="500" >}}
 &nbsp;
 
 This finding, however, does not mean that future handle holders should just post more pictures in places less represented to make the whole thing evenly distributed. It’s more of a reminder to us that there are many places no reached and stories untold even though @WeThePeopleDC as a platform is trying its best to engage Washingtonians.

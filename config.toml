@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "/"
-title = "Meghna"
+title = "Data Community"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -145,3 +145,7 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
+
+##### Allow using raw HTML #https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032
+[markup.goldmark.renderer]
+unsafe= true
