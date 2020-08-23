@@ -3,7 +3,7 @@ baseURL = "/"
 title = "Data Community"
 theme = "meghna-hugo"
 # post pagination
-paginate = "6"
+paginate = "3"
 # post excerpt
 summaryLength = "15"
 # disqus short name
@@ -41,19 +41,24 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
-[[menu.main]]
-name = "about"
-URL = "about"
-weight = 1
+# [[menu.main]]
+# name = "about"
+# URL = "about"
+# weight = 1
 
 [[menu.main]]
 name = "services"
 URL = "services"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "portfolio"
 URL = "portfolio"
+weight = 2
+
+[[menu.main]]
+name = "blog"
+URL = "blog"
 weight = 3
 
 [[menu.main]]
@@ -63,14 +68,9 @@ weight = 4
 
 
 [[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 6
-
-[[menu.main]]
 name = "contact"
 URL = "contact"
-weight = 7
+weight = 5
 
 # #### external / static link ####
 # [[menu.static]]
