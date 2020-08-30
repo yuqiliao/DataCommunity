@@ -4,73 +4,61 @@ portfolio:
   title : Our Works
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+    ###Aline
+    - name : Data Dashboard
+      image : images/blog/dashboard-tableau.png
+      #image_webp : images/portfolio/portfolio-1.webp
+      categories : ["data-visualization"]
+      content : Data dashboard showcase - World Bank IEG Data
+      link : "/blog/aline-dashboard-ieg/"
       
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
+    - name : Data Dashboard
+      image : images/blog/dashboard-solar-water-pumping.png
+      categories : ["data-visualization"]
+      content : Data dashboard showcase - World Bank Solar Water Pumping Data
+      link : "/blog/aline-dashboard-solar/"
+    
+    - name : Policy Analysis
+      image : images/blog/green-bond.jpeg
+      categories : ["data-analysis"]
+      content : Green bond financing
+      link : "/blog/aline-green-bond/"
+    
+    ###Yuqi
+    - name : Data Story
+      image : images/blog/dashboard-solar-water-pumping.png
+      categories : ["data-visualization", "data-analysis"]
+      content : Interative data story showcase - Online Reading Literacy Data
+      link : "/blog/yuqi-epirls/"
+
+    - name : Data Animation
+      image : images/blog/world-bank-logo.jpg
+      categories : ["data-visualization", "data-analysis"]
+      content : Data animation showcase - World Development Indicator Data
+      link : "/blog/yuqi_wb-sanitation/"
+
+    - name : Data Analysis
+      image : images/blog/points_edit.png
+      categories : ["data-visualization", "data-analysis"]
+      content : Data Scraping & analysis showcase - Instagram Geo-location Data
+      link : "/blog/yuqi-instagram-analysis/"
+    
+    ###Robin
+    - name : Policy Analysis
+      image : images/blog/illustration_series.gif
+      categories : ["data-visualization", "data-analysis"]
+      content : Federal Premium Spending Impact of Public Option Policy Interventions
+      link : "/robin_public-option-premium/"
       
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    ###Sifan
+    - name : Data Analysis
+      image : images/blog/negative.svg
+      categories : ["data-visualization", "data-analysis"]
+      content : Analyzing business ownership using US Census data
+      link : "/sifan-abs/"
+
+    - name : Teaching
+      image : images/blog/R package logo.png
+      categories : ["teaching"]
+      content : Introducing the metro.data R package
+      link : "/sifan-r-package/"

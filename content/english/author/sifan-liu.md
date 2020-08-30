@@ -1,6 +1,6 @@
 ---
 # email: email2@example.org
-image: "images/team/sifan-profile.jpeg"
+image: "images/team/sifan-bwhite.jpeg"
 social:
 - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
   link : "https://twitter.com/Sifan_Liu"

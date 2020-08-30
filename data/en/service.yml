@@ -6,29 +6,29 @@ service:
     # service item loop
     - name : Data analysis
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Identify domain data sources and unearth actionable and evidence based insights in education, regional economy, health care, international development and beyond.
       
     # service item loop
     - name : Data visualization
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Static, interactive, etc. dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Tailor to your strategic communication needs with interactive platforms and customized data visualization pipelines, for concise and engaging communication.
       
     # service item loop
     - name : Trainings
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : R studio trainers. etc. sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Bespoke data analytics seminars in R and beyond by experienced practitioners, building up your team’s analytics capacity from 0 to 1.
       
     # service item loop
     - name : Data consulting
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Organize your organization’s data infrastructure, from storage to automatic processing, facilitating policy domain specific analysis and communication.
       
     # service item loop
     - name : Automated reporting
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Reinvent your workflow with automated data-to-presentation insight journey, allowing you to invest in value and creativity.
       
     # service item loop
     - name : Apps Development
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : R package, Shiny app, etc. dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Develop and update bespoke R packages, Shiny Apps, etc., packing your data needs into a few clicks.

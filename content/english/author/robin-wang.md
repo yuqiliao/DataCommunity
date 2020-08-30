@@ -1,6 +1,6 @@
 ---
 # email: email2@example.org
-image: "images/team/robin-profile.jpeg"
+image: "images/team/robin-bw.jpeg"
 social:
 - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
   link : "https://twitter.com/Ruobing_Wang"
