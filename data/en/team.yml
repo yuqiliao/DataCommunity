@@ -39,7 +39,7 @@ team:
     - name : Aline Weng
       #image_webp : images/team/team-3.webp
       image : images/team/aline-bw.jpeg
-      designation : "International development database and developming country census"
+      designation : "International development database and developing country census"
       content : "Demographic and Health Surveys (USAID)， Multiple Indicator Cluster Survey (UNICEF)， World Development Indicators, world bank poverty data"
       social :
         # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
