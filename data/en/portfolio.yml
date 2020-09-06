@@ -26,7 +26,7 @@ portfolio:
     
     ###Yuqi
     - name : Data Story
-      image : images/blog/animation-epirls.gif
+      image : images/blog/ePIRLS-screenrecording.gif
       categories : ["data-viz", "Analysis", "d3.js"]
       content : Interative data story showcase - Online Reading Literacy Data
       link : "/blog/yuqi-epirls/"
