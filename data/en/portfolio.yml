@@ -49,6 +49,13 @@ portfolio:
       categories : ["data-viz", "Analysis", "R"]
       content : Federal Premium Spending Impact of Public Option Policy Interventions
       link : "/blog/robin_public-option-premium/"
+
+    - name : Data Story
+      image : images/blog/ecommerce-overlapbar.gif
+      categories : ["data-viz", "Analysis", "d3.js"]
+      content : Understanding the infrastructure background and patterns of China’s E-Commerce Boom
+      link : "/blog/robin-ecommerce/"
+      
       
     ###Sifan
     - name : Data Analysis

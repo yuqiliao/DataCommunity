@@ -8,7 +8,7 @@ team:
       # image_webp : images/team/team-1.webp
       image : images/team/sifan-bwhite.jpeg
       designation : "Regional economic and innovation datasets"
-      content : "US census data and BLS data, USPTO database, OECD regional statistics, OECD REGPAT database"
+      content : "Sifan Liu is a senior research analyst with the Metropolitan Policy Program at Brookings. Her research expertise includes regional policy on innovation, entrepreneurship ecosystem, and economic development."
       social :
         # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
         #   link : "#"
@@ -24,7 +24,7 @@ team:
       #image_webp : images/team/team-2.webp
       image : images/team/robin-bw.jpeg
       designation : "US healthcare and health insurance data"
-      content : "CMS Hospital data, Physician Fees Schedule Data and Billing Code, State All Payer Claims Databases and State proprietary claims data"
+      content : "Robin Wang is a health policy researcher at the Urban Institute, with extensive experience in health data analysis & modelling, and health policy analysis. His professional experience spans China, the US, continental Europe and the UK. Robin is an MPA graduate of the London School of Economics and Political Science, and has advanced data science training in George Washington University."
       social :
         # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
         #   link : "#"
@@ -40,7 +40,7 @@ team:
       #image_webp : images/team/team-3.webp
       image : images/team/aline-bw.jpeg
       designation : "International development database and developing country census"
-      content : "Demographic and Health Surveys (USAID)， Multiple Indicator Cluster Survey (UNICEF)， World Development Indicators, world bank poverty data"
+      content : "Aline Weng is a consultant based in Washington D.C. She has expertise in international development. At the World Bank, she supports the implementation and promotion of data-driven policymaking with a focus on the intersection of economics and sustainable development. She holds a Master degree in Agricultural and Resource Economics from the University of California, Davis."
       social :
         # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
         #   link : "#"
@@ -56,7 +56,7 @@ team:
       #image_webp : images/team/team-4.webp
       image : images/team/yuqi-bw.jpeg
       designation : "Large-scale international assessments and surveys"
-      content : "PISA, PIAAC, TALIS, TIMSS, PIRLS, ICILS, NAEP, etc."
+      content : "Yuqi is a data and research professional with an interdisciplinary background in data visualization, web development, large-scale survey and assessment, machine learning, econometrics, and public policy. He is passionate about helping people and organizations explore and understand their data."
       social :
         # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
         #   link : "#"
