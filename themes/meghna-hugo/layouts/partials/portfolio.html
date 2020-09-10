@@ -46,8 +46,12 @@
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | relURL }}"
+						<!-- <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | relURL }}"
 							data-lightbox="image-1">
+							<i class="ti-search"></i>
+						</a> --> 
+						<!-- //Yuqi made the above change so that the magnifying glass icon does not lead to pop up of the image -->
+						<a class="search-icon" href="{{ .link | safeURL }}">
 							<i class="ti-search"></i>
 						</a>
 						<h4 class="mt-3">

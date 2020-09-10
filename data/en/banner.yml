@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/whale-background-small.webp"
-  #bg_image : "images/backgrounds/hero-area.png"
+  #bg_image_webp : "images/backgrounds/whale-background-small.webp"
+  bg_image : "images/backgrounds/whale-background-small.png"
   con : "" # themify icon pack : https://themify.me/themify-icons
   title : "Ready for a data dive?"
   content : "Experienced policy professionals in the Data Whale team are your data partners in identifying value and insights from a range of data solutions across multiple policy areas."
