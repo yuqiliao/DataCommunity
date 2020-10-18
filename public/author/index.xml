@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Data Community</title>
+    <title>Authors on Data Whale</title>
     <link>/author/</link>
-    <description>Recent content in Authors on Data Community</description>
+    <description>Recent content in Authors on Data Whale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>copyright &amp;copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved</copyright>
+    <copyright>copyright &amp;copy; 2020 all right reserved</copyright>
     
 	<atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mark Dinn</title>
-      <link>/author/mark-dinn/</link>
+      <title>Aline Weng</title>
+      <link>/author/aline-weng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <guid>/author/aline-weng/</guid>
+      <description>Aline Weng is a consultant based in Washington D.C. She has expertise in international development. At the World Bank, she supports the implementation and promotion of data-driven policymaking with a focus on the intersection of economics and sustainable development.</description>
+    </item>
+    
+    <item>
+      <title>Robin Wang</title>
+      <link>/author/robin-wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/robin-wang/</guid>
+      <description>Robin Wang is a health policy researcher at the Urban Institute, with extensive experience in health data analysis &amp;amp; modelling, and health policy analysis.</description>
+    </item>
+    
+    <item>
+      <title>Sifan Liu</title>
+      <link>/author/sifan-liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/sifan-liu/</guid>
+      <description>Sifan Liu is a senior research analyst with the Metropolitan Policy Program at Brookings. Her research expertise includes regional policy on innovation, entrepreneurship ecosystem, and economic development.</description>
     </item>
     
     <item>

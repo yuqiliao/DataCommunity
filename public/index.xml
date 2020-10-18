@@ -1,51 +1,132 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Community</title>
+    <title>Data Whale</title>
     <link>/</link>
-    <description>Recent content on Data Community</description>
+    <description>Recent content on Data Whale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>copyright &amp;copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved</copyright>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>copyright &amp;copy; 2020 all right reserved</copyright>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Who Clicks On Advertisements During an Online Reading Assessment?</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Public Option Premium Change Illustration By Rating Area</title>
+      <link>/blog/robin_public-option-premium/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
-      <description>Hello R Markdown /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.</description>
+      <guid>/blog/robin_public-option-premium/</guid>
+      <description>Illustrate Federal Premium Spending Impact of Public Option Policy Interventions.</description>
     </item>
     
     <item>
-      <title>Who Clicks On Advertisements During an Online Reading Assessment?</title>
-      <link>/blog/epirls/</link>
+      <title>Data dashboard showcase - World Bank Solar Water Pumping Data</title>
+      <link>/blog/aline-dashboard-solar/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/aline-dashboard-solar/</guid>
+      <description>This online interactive data dashboard aims to raise awareness about the technology and provide resources that help incorporate it into operations.</description>
+    </item>
+    
+    <item>
+      <title>Data dashboard showcase - World Bank IEG Data</title>
+      <link>/blog/aline-dashboard-ieg/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/aline-dashboard-ieg/</guid>
+      <description>This dashboard contains ratings data on World Bank lending projects that closed between fiscal years 2008 and 2019 and for which IEG received Implementation Completion and Results Reports (ICRs).</description>
+    </item>
+    
+    <item>
+      <title>Unleash the Green Finance Potential in Emerging Markets: How MDBs work with China on Green Bonds</title>
+      <link>/blog/aline-green-bond/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/aline-green-bond/</guid>
+      <description>Green bond financing, as a blended finance model, could innovatively channel the private investments to achieve the Sustainable Development Goals.</description>
+    </item>
+    
+    <item>
+      <title>Worldwide Trend in Access to Sanitation Services</title>
+      <link>/blog/yuqi_wb-sanitation/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/yuqi_wb-sanitation/</guid>
+      <description>Using data from the WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene obtained through the World Bank Open Data, an animated chart is created about the indicator “people using at least basic sanitation services (as a percent of population)” for 192 countries around the world from 2000 to 2017.</description>
+    </item>
+    
+    <item>
+      <title>Understanding the infrastructure background and patterns of China’s E-Commerce Boom</title>
+      <link>/blog/robin-ecommerce/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/robin-ecommerce/</guid>
+      <description>Visualization Series of China’s E-Commerce Sector and Underlying Transport Infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Interative data story showcase</title>
+      <link>/blog/yuqi-epirls/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/epirls/</guid>
-      <description>&amp;#128218;ePIRLS Data Story    Who Clicks On Advertisements During an Online Reading Assessment?</description>
+      <guid>/blog/yuqi-epirls/</guid>
+      <description>Remember that time when you were reading an article online, where half-way through, there’s an advertisement that caught your eye, and 10 minutes later, you finished purchasing whatever that was and completely forgot about the article? The designers of ePIRLS surely remember such moments, so they put advertisements in many webpages from which students are supposed to read and collect information.</description>
+    </item>
+    
+    <item>
+      <title>Analyzing business ownership using Census data</title>
+      <link>/blog/sifan-abs/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sifan-abs/</guid>
+      <description>How many businesses in the United States are owned by women or minorities? Does the ownership vary by industry and region?</description>
     </item>
     
     <item>
       <title>Instagram @WeThePeopleDC</title>
-      <link>/blog/instagram-analysis/</link>
+      <link>/blog/yuqi-instagram-analysis/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/instagram-analysis/</guid>
+      <guid>/blog/yuqi-instagram-analysis/</guid>
       <description>If you have some footprints in Washington D.C. and are active on Instagram, chances are that you may have heard of, or are currently following, the Instagram account @WeThePeopleDC.</description>
     </item>
     
     <item>
-      <title>Mark Dinn</title>
-      <link>/author/mark-dinn/</link>
+      <title>Introducing the metro.data R package</title>
+      <link>/blog/sifan-r-package/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sifan-r-package/</guid>
+      <description>metro.data metro.data is an R package for working with US Census geographic data. The built-in datasets include latest geographic reference files between census places, counties, metropolitan areas, and states, with population data from 2018 ACS 1-year estimates and employment data from CBP 2018 estimates.</description>
+    </item>
+    
+    <item>
+      <title>Aline Weng</title>
+      <link>/author/aline-weng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <guid>/author/aline-weng/</guid>
+      <description>Aline Weng is a consultant based in Washington D.C. She has expertise in international development. At the World Bank, she supports the implementation and promotion of data-driven policymaking with a focus on the intersection of economics and sustainable development.</description>
+    </item>
+    
+    <item>
+      <title>Robin Wang</title>
+      <link>/author/robin-wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/robin-wang/</guid>
+      <description>Robin Wang is a health policy researcher at the Urban Institute, with extensive experience in health data analysis &amp;amp; modelling, and health policy analysis.</description>
+    </item>
+    
+    <item>
+      <title>Sifan Liu</title>
+      <link>/author/sifan-liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/sifan-liu/</guid>
+      <description>Sifan Liu is a senior research analyst with the Metropolitan Policy Program at Brookings. Her research expertise includes regional policy on innovation, entrepreneurship ecosystem, and economic development.</description>
     </item>
     
     <item>

@@ -42,6 +42,12 @@ portfolio:
       categories : ["data-viz", "Analysis", "R"]
       content : Data Scraping & analysis showcase - Instagram Geo-location Data
       link : "/blog/yuqi-instagram-analysis/"
+
+    - name : Teaching
+      image : images/blog/epirlsTweetOriginal_c.gif
+      categories : ["data-viz", "teaching", "R"]
+      content : How to Create Animations in R
+      link : "/blog/yuqi-rstudiosamplelesson/"
     
     ###Robin
     - name : Policy Analysis
@@ -69,3 +75,15 @@ portfolio:
       categories : ["teaching", "R"]
       content : Introducing the metro.data R package
       link : "/blog/sifan-r-package/"
+
+    - name : Data Analysis
+      image : images/blog/text-analysis.gif
+      categories : ["data-viz", "Analysis", "R"]
+      content : Visualizing the startup ecosystem network
+      link : "/blog/sifan-text-analysis/"
+    
+    - name : Teaching
+      image : images/blog/stringr.png
+      categories : ["Analysis", "teaching", "R"]
+      content : How to Work with Strings in R
+      link : "/blog/sifan-rstudiosamplelesson/"
