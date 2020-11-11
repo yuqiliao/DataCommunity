@@ -64,6 +64,12 @@ portfolio:
       
       
     ###Sifan
+    - name : Data Dashboard
+      image : images/blog/soda-logo-color.jpg
+      categories : ["data-viz", "Analysis", "R"]
+      content : SODA Map Shanghai
+      link : "/blog/sifan-dashboard-soda/"
+
     - name : Data Analysis
       image : images/blog/negative.svg
       categories : ["data-viz", "Analysis", "R"]
@@ -87,3 +93,4 @@ portfolio:
       categories : ["Analysis", "teaching", "R"]
       content : How to Work with Strings in R
       link : "/blog/sifan-rstudiosamplelesson/"
+
