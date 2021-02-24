@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2020 all right reserved</copyright>
-    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data dashboard showcase - SODA Map Shanghai</title>
+      <link>/blog/sifan-dashboard-soda/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sifan-dashboard-soda/</guid>
+      <description>This dashboard is part of the submission to the Shanghai Open Data App competition, it provides easy access to Shanghai Open Data along with curated findings for district-level policy makers.</description>
+    </item>
+    
+    <item>
+      <title>How to Create Animations in R</title>
+      <link>/blog/yuqi-rstudiosamplelesson/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/yuqi-rstudiosamplelesson/</guid>
+      <description>The following materials covers the basics of creating animations (or data-driven GIFs) in R. By the end of the slides, you could recreate the animation above.</description>
+    </item>
+    
+    <item>
+      <title>How to Work with Strings in R</title>
+      <link>/blog/sifan-rstudiosamplelesson/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sifan-rstudiosamplelesson/</guid>
+      <description>The following slides focus on the basics in working with strings in R - this will be great for someone who is new to R, but probably has some data analysis experience in Stata, Excel, or if you are already a R user, but mostly self-taught, and would like to have a refresher on what you could do with strings in R.</description>
+    </item>
     
     <item>
       <title>Public Option Premium Change Illustration By Rating Area</title>
@@ -76,6 +103,15 @@
     </item>
     
     <item>
+      <title>Visualizing the startup ecosystem network</title>
+      <link>/blog/sifan-text-analysis/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sifan-text-analysis/</guid>
+      <description>Fetching data using CrunchBase API This analysis deploys crowdsourced data from Crunchbase, a continuously updated platform of technology-based startups.</description>
+    </item>
+    
+    <item>
       <title>Analyzing business ownership using Census data</title>
       <link>/blog/sifan-abs/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
@@ -100,15 +136,6 @@
       
       <guid>/blog/sifan-r-package/</guid>
       <description>metro.data metro.data is an R package for working with US Census geographic data. The built-in datasets include latest geographic reference files between census places, counties, metropolitan areas, and states, with population data from 2018 ACS 1-year estimates and employment data from CBP 2018 estimates.</description>
-    </item>
-    
-    <item>
-      <title>Aline Weng</title>
-      <link>/author/aline-weng/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/author/aline-weng/</guid>
-      <description>Aline Weng is a consultant based in Washington D.C. She has expertise in international development. At the World Bank, she supports the implementation and promotion of data-driven policymaking with a focus on the intersection of economics and sustainable development.</description>
     </item>
     
     <item>
