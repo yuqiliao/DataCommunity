@@ -35,21 +35,6 @@ team:
         # - icon : ti-github # themify icon pack : https://themify.me/themify-icons
         #   link : "#"
         
-    # # team member loop
-    # - name : Aline Weng
-    #   #image_webp : images/team/team-3.webp
-    #   image : images/team/aline-bw.jpeg
-    #   designation : "International development database and developing country census"
-    #   content : "Aline Weng is a consultant based in Washington D.C. She has expertise in international development. At the World Bank, she supports the implementation and promotion of data-driven policymaking with a focus on the intersection of economics and sustainable development. She holds a Master degree in Agricultural and Resource Economics from the University of California, Davis."
-    #   social :
-    #     # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-    #     #   link : "#"
-    #     # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-    #     #   link : "#"
-    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-    #       link : "https://www.linkedin.com/in/robin0wang/"
-    #     # - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-    #     #   link : "#"
         
     # team member loop
     - name : Yuqi Liao
