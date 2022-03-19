@@ -65,6 +65,12 @@ portfolio:
       
     ###Sifan
     - name : Data Dashboard
+      image : images/blog/shinyapp.png
+      categories : ["data-viz", "Analysis", "R"]
+      content : Shiny app demo
+      link : "/blog/sifan-dashboard-metro/"
+
+    - name : Data Dashboard
       image : images/blog/soda-logo-color.jpg
       categories : ["data-viz", "Analysis", "R"]
       content : SODA Map Shanghai
