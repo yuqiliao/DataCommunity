@@ -11,4 +11,4 @@ social:
 title: Sifan Liu
 ---
 
-Sifan Liu is a senior research analyst with the Metropolitan Policy Program at Brookings. Her research expertise includes regional policy on innovation, entrepreneurship ecosystem, and economic development.
+Sifan Liu has extensive experience delivering data and analytics products for public and private clients. Previously she worked as a senior research analyst with the Metropolitan Policy Program at Brookings. Her research expertise includes regional policy on innovation, entrepreneurship ecosystem, and economic development. Sifan holds a Master of Public Policy degree with Georgetown University.

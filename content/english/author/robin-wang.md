@@ -9,4 +9,4 @@ social:
 title: Robin Wang
 ---
 
-Robin Wang is a health policy researcher at the Urban Institute, with extensive experience in health data analysis & modelling, and health policy analysis. His professional experience spans China, the US, continental Europe and the UK. Robin is an MPA graduate of the London School of Economics and Political Science, and has advanced data science training in George Washington University.
+Robin Wang worked as a health policy researcher at the Urban Institute, with extensive experience in health data analysis & modeling, and health policy analysis. His professional experience spans China, the US, continental Europe and the UK. Robin is a Master of Public Administration graduate of the London School of Economics and Political Science, and has advanced data science training in George Washington University.
