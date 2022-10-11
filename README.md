@@ -1,2 +1,2 @@
 # DataCommunity
-Website for Data Community (DC)
+Website for Data Whale LLC

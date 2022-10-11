@@ -35,7 +35,23 @@ team:
         # - icon : ti-github # themify icon pack : https://themify.me/themify-icons
         #   link : "#"
         
-        
+    # team member loop
+    - name : Aline Weng
+      #image_webp : images/team/team-3.webp
+      image : images/team/aline-bw.jpeg
+      designation : "International development database and developing country census"
+      content : "Aline Weng is a consultant with expertise in international development. She leads the operation of Data Whale's China office. Aline supports the implementation and promotion of data-driven policymaking with a focus on the intersection of economics and sustainable development. She holds a Master degree in Agricultural and Resource Economics from the University of California, Davis."
+      social :
+        # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/aline-xinyu-weng-b27207a4/"
+        # - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+
+
     # team member loop
     - name : Yuqi Liao
       #image_webp : images/team/team-4.webp
