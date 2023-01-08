@@ -2,8 +2,8 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : Contact Details
-  content : Join for a brief consultation, and start the data journey with us.
+  subtitle : Let's work together
+  content : If you'd like to chat about a project, or just say hi, please feel free to reach out.
 
   # Contact details
   # contact_list:

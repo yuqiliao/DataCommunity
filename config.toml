@@ -56,10 +56,10 @@ name = "portfolio"
 URL = "portfolio"
 weight = 2
 
-[[menu.main]]
-name = "team"
-URL = "team"
-weight = 3
+# [[menu.main]]
+# name = "team"
+# URL = "team"
+# weight = 3
 
 [[menu.main]]
 name = "blog"
@@ -82,7 +82,7 @@ weight = 5
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/green_whale_withText.png"
+logo = "images/logo_transparent_background_small.png"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
@@ -94,7 +94,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/green_whale_withText-small.png"
+preloader = "images/white_whale_square.png"
 
 # google map
 # [params.map]
@@ -137,7 +137,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "copyright &copy; 2022 all right reserved"
+copyright = "copyright &copy; 2023 all right reserved"
 
 ################################ France Language ########################
 [Languages.fr]

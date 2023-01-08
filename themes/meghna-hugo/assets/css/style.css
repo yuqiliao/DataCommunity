@@ -8,12 +8,12 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color: #353b43;
+  background-color: #e8eaed;
   color: #737f8a;
 }
 
 body {
-  background-color: #353b43;
+  background-color: #e8eaed;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #5f5f5f;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 }
 
 pre {
-  color: #afbac4;
+  color: #5f5f5f;
 }
 
 /*=================================================================
@@ -48,12 +48,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #31aae2;
 }
 
 ::selection {
   color: #fff;
-  background: #57cbcc;
+  background: #31aae2;
 }
 
 hr {
@@ -115,7 +115,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #31aae2;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -137,7 +137,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #31aae2;
 }
 
 .color {
@@ -163,7 +163,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: #e8eaed;
 }
 
 .bg-dark {
@@ -215,11 +215,11 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #57cbcc;
+  color: #31aae2;
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #31aae2;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -307,7 +307,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #31aae2;
 }
 
 .title p {
@@ -352,7 +352,7 @@ a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #57cbcc;
+  color: #31aae2;
 }
 
 .slick-slide {
@@ -416,7 +416,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #57cbcc;
+  color: #31aae2;
 }
 
 .navbar-toggler:focus {
@@ -460,7 +460,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #57cbcc;
+  color: #31aae2;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -555,7 +555,7 @@ a:hover {
 }
 
 .about .block:hover {
-  border-bottom: 2px solid #57cbcc;
+  border-bottom: 2px solid #31aae2;
 }
 
 .about .block:hover .icon-box {
@@ -607,7 +607,7 @@ a:hover {
 }
 
 .about .block .icon-box h3 {
-  color: #afbac4;
+  color: #5f5f5f;
 }
 
 /*=================================================================
@@ -627,7 +627,7 @@ a:hover {
 
 .about-2 .content-block .media i {
   font-size: 30px;
-  color: #57cbcc;
+  color: #31aae2;
 }
 
 .about-2 .content-block .media h4 {
@@ -697,7 +697,7 @@ a:hover {
   border-radius: 0;
   padding: 5px 10px;
   color: #ddd;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(256, 256, 256, 0.7);
 }
 
 .form-meghna .form-control:focus {
@@ -707,12 +707,12 @@ a:hover {
 
 .form-meghna input:hover,
 .form-meghna textarea:hover {
-  border-color: #57cbcc;
+  border-color: #31aae2;
 }
 
 #contact-submit {
-  border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #57cbcc;
+  border: 1px solid rgba(256, 256, 256, 0.7);
+  background: #31aae2;
   padding: 12px 0;
   width: 100%;
   margin: 0;
@@ -798,7 +798,7 @@ a:hover {
   Pricing section
 ==================================================================*/
 .price-item {
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(256, 256, 256, 0.7);
   padding-bottom: 30px;
   margin-bottom: 15px;
 }
@@ -809,7 +809,7 @@ a:hover {
 }
 
 .price-title h3 {
-  color: #57cbcc;
+  color: #31aae2;
   margin: 0 0 10px;
   text-transform: uppercase;
 }
@@ -820,7 +820,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #57cbcc;
+  color: #31aae2;
   font-size: 30px;
 }
 
@@ -836,7 +836,7 @@ a:hover {
 }
 
 .pricing li:last-child {
-  border-bottom: 1px solid rgba(236, 239, 241, 0.07);
+  border-bottom: 1px solid rgba(256, 256, 256, 0.7);
   margin-bottom: 20px;
 }
 
@@ -859,7 +859,7 @@ a:hover {
 
 .portfolio-filter .btn {
   outline: 0;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(256, 256, 256, 0.7);
   background: transparent;
   display: inline-block;
   font-size: 16px;
@@ -870,7 +870,7 @@ a:hover {
 }
 
 .portfolio-filter .btn.active {
-  border-color: #57cbcc;
+  border-color: #31aae2;
 }
 
 .portfolio-block {
@@ -929,7 +929,7 @@ a:hover {
 }
 
 .portfolio-block .caption .search-icon {
-  background: #57cbcc;
+  background: #31aae2;
   width: 50px;
   height: 50px;
   color: #fff;
@@ -947,8 +947,8 @@ a:hover {
 ==================================================================*/
 .service-block {
   padding: 60px 20px;
-  border-left: 1px solid rgba(236, 239, 241, 0.07);
-  border-top: 1px solid rgba(236, 239, 241, 0.07);
+  border-left: 1px solid rgba(256, 256, 256, 0.7);
+  border-top: 1px solid rgba(256, 256, 256, 0.7);
   margin-bottom: 40px;
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
 }
@@ -975,13 +975,13 @@ a:hover {
 
 .service-2 .service-item:hover i {
   background: #fff;
-  color: #57cbcc;
+  color: #31aae2;
 }
 
 .service-2 .service-item i {
   font-size: 30px;
   display: inline-block;
-  background: #57cbcc none repeat scroll 0 0;
+  background: #31aae2 none repeat scroll 0 0;
   border-radius: 30px;
   box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.1);
   color: #fff;
@@ -1014,7 +1014,7 @@ a:hover {
 }
 
 .skill-bar .progress .progress-bar {
-  background: #57cbcc;
+  background: #31aae2;
 }
 
 /*=================================================================
@@ -1093,7 +1093,7 @@ a:hover {
 
 .member-photo .mask ul li a:hover {
   background-color: #fff;
-  color: #57cbcc;
+  color: #31aae2;
   border: 1px solid transparent;
 }
 
@@ -1128,7 +1128,7 @@ a:hover {
 }
 
 .client-comment p {
-  color: #afbac4;
+  color: #5f5f5f;
   font-size: 18px;
 }
 
@@ -1174,7 +1174,7 @@ a:hover {
 
 .owl-controls .owl-page.active span,
 .owl-controls .owl-page:hover span {
-  background-color: #57cbcc;
+  background-color: #31aae2;
   border: 2px solid transparent;
 }
 
@@ -1268,7 +1268,7 @@ a:hover {
 }
 
 .post-meta a {
-  color: #57cbcc;
+  color: #31aae2;
 }
 
 .post-meta>span {
@@ -1329,7 +1329,7 @@ a:hover {
 }
 
 .next-prev a:hover {
-  color: #57cbcc;
+  color: #31aae2;
 }
 
 .next-prev .prev-post i {
@@ -1352,7 +1352,7 @@ a:hover {
 }
 
 .social-profile ul li a i:hover {
-  color: #57cbcc;
+  color: #31aae2;
 }
 
 .comments-section {
@@ -1400,7 +1400,7 @@ a:hover {
 }
 
 .comment-wrap .media .media-heading a {
-  color: #57cbcc;
+  color: #31aae2;
   font-size: 13px;
 }
 
@@ -1427,7 +1427,7 @@ a:hover {
 .comment-reply-form input:focus,
 .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #57cbcc;
+  border: 1px solid #31aae2;
 }
 
 .comment-reply-form textarea,
@@ -1490,7 +1490,7 @@ a:hover {
 }
 
 .post-comment-name {
-  color: #afbac4;
+  color: #5f5f5f;
   font-weight: 500;
   font-size: 18px;
 }
@@ -1529,7 +1529,7 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover {
-  background: #57cbcc;
+  background: #31aae2;
 }
 
 .social-icon ul li a:hover i {
@@ -1572,8 +1572,8 @@ input#e-mail,
 }
 
 #scrollUp:hover {
-  background-color: #57cbcc;
-  border: 1px solid #57cbcc;
+  background-color: #31aae2;
+  border: 1px solid #31aae2;
 }
 
 /*=================================================================
@@ -1995,11 +1995,11 @@ blockquote {
   background-color: transparent;
   padding: 5px 10px;
   color: #ddd;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(256, 256, 256, 0.7);
 }
 
 .form-control-meghna .form-control:focus {
-  border-color: #57cbcc;
+  border-color: #31aae2;
   box-shadow: 0 0 0 0.2rem rgba(0, 174, 255, 0.432);
 }
 
@@ -2253,8 +2253,8 @@ figcaption {
 }
 
 .pagination .page-item .page-link:hover {
-  background: #57cbcc;
-  border-color: #57cbcc;
+  background: #31aae2;
+  border-color: #31aae2;
   color: #fff
 }
 
@@ -2264,9 +2264,9 @@ figcaption {
 }
 
 .pagination .page-item.active .page-link {
-  background: #57cbcc;
+  background: #31aae2;
   color: #fff;
-  border-color: #57cbcc;
+  border-color: #31aae2;
 }
 
 #select-language {
